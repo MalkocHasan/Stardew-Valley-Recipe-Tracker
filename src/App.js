@@ -136,12 +136,13 @@ function App() {
             </div>
           )}
           <div
-            className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"
+            className="block mx-auto"
             style={{
               display: "flex",
-              justifyContent: "center",
-              alignItems: "flex-start",
               minHeight: "100vh",
+              flexWrap: "wrap",
+              justifyContent: "center", // Center items horizontally
+              alignItems: "center", // Center items vertically
             }}
           >
             {filteredRecipes.map((recipe, index) => (

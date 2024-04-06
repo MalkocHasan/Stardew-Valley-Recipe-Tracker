@@ -7,10 +7,9 @@ const RecipeCard = ({ recipe, onToggleCompletion }) => {
 
   return (
     <div
-      className="max-w-xs bg-white shadow-md rounded-lg overflow-hidden mx-auto"
+      className="max-w-xs bg-white shadow-md rounded-lg overflow-hidden mx-auto w-64 h-64 py-2 flex flex-col justify-between"
       style={{
         backgroundColor: "#ffe0b0",
-        padding: ".5em 2em .5em 1em",
         margin: "5px",
         border: "5px solid #804000",
         borderRadius: "15px",
@@ -29,8 +28,6 @@ const RecipeCard = ({ recipe, onToggleCompletion }) => {
           <h2 className="text-lg font-bold text-gray-800 my-auto text-center">
             {recipe.name}
           </h2>
-          {/*<p className="text-sm text-gray-600">{recipe.description}</p>*/}
-          {/*<p className="text-sm text-gray-600">{recipe.type} Recipe</p>{" "}*/}
         </div>
       </div>
       <div className="px-4 py-2">
@@ -42,9 +39,11 @@ const RecipeCard = ({ recipe, onToggleCompletion }) => {
           ))}
         </ul>
       </div>
-      <div className="px-4 py-2 flex justify-between">
+      <div className="px-4 py-2 flex justify-center">
+        {" "}
+        {/* Adjusted here */}
         <button
-          className={`px-4 py-2 rounded mx-auto ${
+          className={`px-4 py-2 rounded ${
             recipe.completed ? "bg-green-600" : "bg-amber-800"
           } text-white transition-colors duration-300`}
           onClick={handleToggleCompletion}

@@ -21,17 +21,20 @@ def scrape_recipes(url):
                     image_url = image_url_based if image_tag else None
                     ingredients = []
                     ingredient_cell = columns[3]
+
                     for ingredient_text in ingredient_cell.stripped_strings:
-                        if ingredient_text != "(Any)":
-                            quantity_match = re.search(r'\d+(\.\d+)?', ingredient_text) 
-                            quantity = quantity_match.group() if quantity_match else None
-                            ingredient_split = ingredient_text.split('(', 1)
-                            if len(ingredient_split) == 2:
-                                ingredient_name = ingredient_split[0].strip()
-                            else:
-                                ingredient_name = ingredient_text.strip()
-                            ingredients.append({'name': ingredient_name, 'quantity': quantity})
-                    recipe = {'name': name, 'ingredients': ingredients, 'image': image_url}
+                        if (ingredient_text[0] == '('):
+                            quantity_str = ''
+                            for i in range(1,len(ingredient_text)-1):
+                                if (ingredient_text[i] != ')'):
+                                    quantity_str += ingredient_text[i]
+                            ingredients.append({'name': ingredient_name, 'quantity': quantity_str})
+                        else:
+                            ingredient_name = ingredient_text.strip()
+                        
+                    
+                    
+                    recipe = {'name': name, 'materials': ingredients, 'image': image_url}
                     recipes.append(recipe)
                     if name == 'Moss Soup':
                         return recipes
@@ -42,4 +45,15 @@ def scrape_recipes(url):
 if __name__ == "__main__":
     wiki_url = "https://stardewvalleywiki.com/Cooking"
     recipes = scrape_recipes(wiki_url)
-    print(recipes[0])
+    import json
+
+    # Assuming 'recipes' is a list of dictionaries containing recipe information
+
+    # Print recipes as JSON
+    print(json.dumps(recipes, indent=4))
+
+    # Write recipes to a JSON file
+    with open('recipes.json', 'w') as json_file:
+        json.dump(recipes, json_file, indent=4)
+    print("Recipes saved to 'recipes.json' file.")
+

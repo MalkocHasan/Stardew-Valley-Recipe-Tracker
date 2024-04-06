@@ -1,0 +1,1296 @@
+[
+    {
+        "name": "Fried Egg",
+        "materials": [
+            {
+                "name": "Egg",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/1/18/Fried_Egg.png"
+    },
+    {
+        "name": "Omelet",
+        "materials": [
+            {
+                "name": "Egg",
+                "quantity": "1"
+            },
+            {
+                "name": "Milk",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/1/12/Omelet.png"
+    },
+    {
+        "name": "Salad",
+        "materials": [
+            {
+                "name": "Leek",
+                "quantity": "1"
+            },
+            {
+                "name": "Dandelion",
+                "quantity": "1"
+            },
+            {
+                "name": "Vinegar",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/7/7e/Salad.png"
+    },
+    {
+        "name": "Cheese Cauliflower",
+        "materials": [
+            {
+                "name": "Cauliflower",
+                "quantity": "1"
+            },
+            {
+                "name": "Cheese",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/6/6e/Cheese_Cauliflower.png"
+    },
+    {
+        "name": "Baked Fish",
+        "materials": [
+            {
+                "name": "Sunfish",
+                "quantity": "1"
+            },
+            {
+                "name": "Bream",
+                "quantity": "1"
+            },
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/9/94/Baked_Fish.png"
+    },
+    {
+        "name": "Parsnip Soup",
+        "materials": [
+            {
+                "name": "Parsnip",
+                "quantity": "1"
+            },
+            {
+                "name": "Milk",
+                "quantity": "1"
+            },
+            {
+                "name": "Vinegar",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/7/76/Parsnip_Soup.png"
+    },
+    {
+        "name": "Vegetable Medley",
+        "materials": [
+            {
+                "name": "Tomato",
+                "quantity": "1"
+            },
+            {
+                "name": "Beet",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/0/0a/Vegetable_Medley.png"
+    },
+    {
+        "name": "Complete Breakfast",
+        "materials": [
+            {
+                "name": "Fried Egg",
+                "quantity": "1"
+            },
+            {
+                "name": "Milk",
+                "quantity": "1"
+            },
+            {
+                "name": "Hashbrowns",
+                "quantity": "1"
+            },
+            {
+                "name": "Pancakes",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/3/3d/Complete_Breakfast.png"
+    },
+    {
+        "name": "Fried Calamari",
+        "materials": [
+            {
+                "name": "Squid",
+                "quantity": "1"
+            },
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Oil",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/2/25/Fried_Calamari.png"
+    },
+    {
+        "name": "Strange Bun",
+        "materials": [
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Periwinkle",
+                "quantity": "1"
+            },
+            {
+                "name": "Void Mayonnaise",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/5/5e/Strange_Bun.png"
+    },
+    {
+        "name": "Lucky Lunch",
+        "materials": [
+            {
+                "name": "Sea Cucumber",
+                "quantity": "1"
+            },
+            {
+                "name": "Tortilla",
+                "quantity": "1"
+            },
+            {
+                "name": "Blue Jazz",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/5/5d/Lucky_Lunch.png"
+    },
+    {
+        "name": "Fried Mushroom",
+        "materials": [
+            {
+                "name": "Common Mushroom",
+                "quantity": "1"
+            },
+            {
+                "name": "Morel",
+                "quantity": "1"
+            },
+            {
+                "name": "Oil",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/4/4a/Fried_Mushroom.png"
+    },
+    {
+        "name": "Pizza",
+        "materials": [
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Tomato",
+                "quantity": "1"
+            },
+            {
+                "name": "Cheese",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/f/f4/Pizza.png"
+    },
+    {
+        "name": "Bean Hotpot",
+        "materials": [
+            {
+                "name": "Green Bean",
+                "quantity": "2"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/2/24/Bean_Hotpot.png"
+    },
+    {
+        "name": "Glazed Yams",
+        "materials": [
+            {
+                "name": "Yam",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/3/30/Glazed_Yams.png"
+    },
+    {
+        "name": "Carp Surprise",
+        "materials": [
+            {
+                "name": "Carp",
+                "quantity": "4"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/c/cc/Carp_Surprise.png"
+    },
+    {
+        "name": "Hashbrowns",
+        "materials": [
+            {
+                "name": "Potato",
+                "quantity": "1"
+            },
+            {
+                "name": "Oil",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/8/8f/Hashbrowns.png"
+    },
+    {
+        "name": "Pancakes",
+        "materials": [
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Egg",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/6/6b/Pancakes.png"
+    },
+    {
+        "name": "Salmon Dinner",
+        "materials": [
+            {
+                "name": "Salmon",
+                "quantity": "1"
+            },
+            {
+                "name": "Amaranth",
+                "quantity": "1"
+            },
+            {
+                "name": "Kale",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/8/8b/Salmon_Dinner.png"
+    },
+    {
+        "name": "Fish Taco",
+        "materials": [
+            {
+                "name": "Tuna",
+                "quantity": "1"
+            },
+            {
+                "name": "Tortilla",
+                "quantity": "1"
+            },
+            {
+                "name": "Red Cabbage",
+                "quantity": "1"
+            },
+            {
+                "name": "Mayonnaise",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/d/d5/Fish_Taco.png"
+    },
+    {
+        "name": "Crispy Bass",
+        "materials": [
+            {
+                "name": "Largemouth Bass",
+                "quantity": "1"
+            },
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Oil",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/5/53/Crispy_Bass.png"
+    },
+    {
+        "name": "Pepper Poppers",
+        "materials": [
+            {
+                "name": "Hot Pepper",
+                "quantity": "1"
+            },
+            {
+                "name": "Cheese",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/0/08/Pepper_Poppers.png"
+    },
+    {
+        "name": "Bread",
+        "materials": [
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/e/e1/Bread.png"
+    },
+    {
+        "name": "Tom Kha Soup",
+        "materials": [
+            {
+                "name": "Coconut",
+                "quantity": "1"
+            },
+            {
+                "name": "Shrimp",
+                "quantity": "1"
+            },
+            {
+                "name": "Common Mushroom",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/3/3b/Tom_Kha_Soup.png"
+    },
+    {
+        "name": "Trout Soup",
+        "materials": [
+            {
+                "name": "Rainbow Trout",
+                "quantity": "1"
+            },
+            {
+                "name": "Green Algae",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/4/48/Trout_Soup.png"
+    },
+    {
+        "name": "Chocolate Cake",
+        "materials": [
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            },
+            {
+                "name": "Egg",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/8/87/Chocolate_Cake.png"
+    },
+    {
+        "name": "Pink Cake",
+        "materials": [
+            {
+                "name": "Melon",
+                "quantity": "1"
+            },
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            },
+            {
+                "name": "Egg",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/3/32/Pink_Cake.png"
+    },
+    {
+        "name": "Rhubarb Pie",
+        "materials": [
+            {
+                "name": "Rhubarb",
+                "quantity": "1"
+            },
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/2/21/Rhubarb_Pie.png"
+    },
+    {
+        "name": "Cookie",
+        "materials": [
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            },
+            {
+                "name": "Egg",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/7/70/Cookie.png"
+    },
+    {
+        "name": "Spaghetti",
+        "materials": [
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Tomato",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/0/08/Spaghetti.png"
+    },
+    {
+        "name": "Fried Eel",
+        "materials": [
+            {
+                "name": "Eel",
+                "quantity": "1"
+            },
+            {
+                "name": "Oil",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/8/84/Fried_Eel.png"
+    },
+    {
+        "name": "Spicy Eel",
+        "materials": [
+            {
+                "name": "Eel",
+                "quantity": "1"
+            },
+            {
+                "name": "Hot Pepper",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/f/f2/Spicy_Eel.png"
+    },
+    {
+        "name": "Sashimi",
+        "materials": [
+            {
+                "name": "Fish",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/4/41/Sashimi.png"
+    },
+    {
+        "name": "Maki Roll",
+        "materials": [
+            {
+                "name": "Fish",
+                "quantity": "1"
+            },
+            {
+                "name": "Seaweed",
+                "quantity": "1"
+            },
+            {
+                "name": "Rice",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/b/b6/Maki_Roll.png"
+    },
+    {
+        "name": "Tortilla",
+        "materials": [
+            {
+                "name": "Corn",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/d/d7/Tortilla.png"
+    },
+    {
+        "name": "Red Plate",
+        "materials": [
+            {
+                "name": "Red Cabbage",
+                "quantity": "1"
+            },
+            {
+                "name": "Radish",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/4/45/Red_Plate.png"
+    },
+    {
+        "name": "Eggplant Parmesan",
+        "materials": [
+            {
+                "name": "Eggplant",
+                "quantity": "1"
+            },
+            {
+                "name": "Tomato",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/7/73/Eggplant_Parmesan.png"
+    },
+    {
+        "name": "Rice Pudding",
+        "materials": [
+            {
+                "name": "Milk",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            },
+            {
+                "name": "Rice",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/e/ec/Rice_Pudding.png"
+    },
+    {
+        "name": "Ice Cream",
+        "materials": [
+            {
+                "name": "Milk",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/5/5d/Ice_Cream.png"
+    },
+    {
+        "name": "Blueberry Tart",
+        "materials": [
+            {
+                "name": "Blueberry",
+                "quantity": "1"
+            },
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            },
+            {
+                "name": "Egg",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/9/9b/Blueberry_Tart.png"
+    },
+    {
+        "name": "Autumn's Bounty",
+        "materials": [
+            {
+                "name": "Yam",
+                "quantity": "1"
+            },
+            {
+                "name": "Pumpkin",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/f/f4/Autumn%27s_Bounty.png"
+    },
+    {
+        "name": "Pumpkin Soup",
+        "materials": [
+            {
+                "name": "Pumpkin",
+                "quantity": "1"
+            },
+            {
+                "name": "Milk",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/5/59/Pumpkin_Soup.png"
+    },
+    {
+        "name": "Super Meal",
+        "materials": [
+            {
+                "name": "Bok Choy",
+                "quantity": "1"
+            },
+            {
+                "name": "Cranberries",
+                "quantity": "1"
+            },
+            {
+                "name": "Artichoke",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/d/d2/Super_Meal.png"
+    },
+    {
+        "name": "Cranberry Sauce",
+        "materials": [
+            {
+                "name": "Cranberries",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/0/0b/Cranberry_Sauce.png"
+    },
+    {
+        "name": "Stuffing",
+        "materials": [
+            {
+                "name": "Bread",
+                "quantity": "1"
+            },
+            {
+                "name": "Cranberries",
+                "quantity": "1"
+            },
+            {
+                "name": "Hazelnut",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/9/9a/Stuffing.png"
+    },
+    {
+        "name": "Farmer's Lunch",
+        "materials": [
+            {
+                "name": "Omelet",
+                "quantity": "1"
+            },
+            {
+                "name": "Parsnip",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/7/79/Farmer%27s_Lunch.png"
+    },
+    {
+        "name": "Survival Burger",
+        "materials": [
+            {
+                "name": "Bread",
+                "quantity": "1"
+            },
+            {
+                "name": "Cave Carrot",
+                "quantity": "1"
+            },
+            {
+                "name": "Eggplant",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/8/87/Survival_Burger.png"
+    },
+    {
+        "name": "Dish O' The Sea",
+        "materials": [
+            {
+                "name": "Sardine",
+                "quantity": "2"
+            },
+            {
+                "name": "Hashbrowns",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/f/ff/Dish_O%27_The_Sea.png"
+    },
+    {
+        "name": "Miner's Treat",
+        "materials": [
+            {
+                "name": "Cave Carrot",
+                "quantity": "2"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            },
+            {
+                "name": "Milk",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/1/12/Miner%27s_Treat.png"
+    },
+    {
+        "name": "Roots Platter",
+        "materials": [
+            {
+                "name": "Cave Carrot",
+                "quantity": "1"
+            },
+            {
+                "name": "Winter Root",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/e/e0/Roots_Platter.png"
+    },
+    {
+        "name": "Triple Shot Espresso",
+        "materials": [
+            {
+                "name": "Coffee",
+                "quantity": "3"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/3/36/Triple_Shot_Espresso.png"
+    },
+    {
+        "name": "Seafoam Pudding",
+        "materials": [
+            {
+                "name": "Flounder",
+                "quantity": "1"
+            },
+            {
+                "name": "Midnight Carp",
+                "quantity": "1"
+            },
+            {
+                "name": "Squid Ink",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/3/33/Seafoam_Pudding.png"
+    },
+    {
+        "name": "Algae Soup",
+        "materials": [
+            {
+                "name": "Green Algae",
+                "quantity": "4"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/5/53/Algae_Soup.png"
+    },
+    {
+        "name": "Pale Broth",
+        "materials": [
+            {
+                "name": "White Algae",
+                "quantity": "2"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/7/7e/Pale_Broth.png"
+    },
+    {
+        "name": "Plum Pudding",
+        "materials": [
+            {
+                "name": "Wild Plum",
+                "quantity": "2"
+            },
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/a/a0/Plum_Pudding.png"
+    },
+    {
+        "name": "Artichoke Dip",
+        "materials": [
+            {
+                "name": "Artichoke",
+                "quantity": "1"
+            },
+            {
+                "name": "Milk",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/7/77/Artichoke_Dip.png"
+    },
+    {
+        "name": "Stir Fry",
+        "materials": [
+            {
+                "name": "Cave Carrot",
+                "quantity": "1"
+            },
+            {
+                "name": "Common Mushroom",
+                "quantity": "1"
+            },
+            {
+                "name": "Kale",
+                "quantity": "1"
+            },
+            {
+                "name": "Oil",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/e/ed/Stir_Fry.png"
+    },
+    {
+        "name": "Roasted Hazelnuts",
+        "materials": [
+            {
+                "name": "Hazelnut",
+                "quantity": "3"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/1/18/Roasted_Hazelnuts.png"
+    },
+    {
+        "name": "Pumpkin Pie",
+        "materials": [
+            {
+                "name": "Pumpkin",
+                "quantity": "1"
+            },
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Milk",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/7/7d/Pumpkin_Pie.png"
+    },
+    {
+        "name": "Radish Salad",
+        "materials": [
+            {
+                "name": "Oil",
+                "quantity": "1"
+            },
+            {
+                "name": "Vinegar",
+                "quantity": "1"
+            },
+            {
+                "name": "Radish",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/b/b9/Radish_Salad.png"
+    },
+    {
+        "name": "Fruit Salad",
+        "materials": [
+            {
+                "name": "Blueberry",
+                "quantity": "1"
+            },
+            {
+                "name": "Melon",
+                "quantity": "1"
+            },
+            {
+                "name": "Apricot",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/9/9e/Fruit_Salad.png"
+    },
+    {
+        "name": "Blackberry Cobbler",
+        "materials": [
+            {
+                "name": "Blackberry",
+                "quantity": "2"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            },
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/7/70/Blackberry_Cobbler.png"
+    },
+    {
+        "name": "Cranberry Candy",
+        "materials": [
+            {
+                "name": "Cranberries",
+                "quantity": "1"
+            },
+            {
+                "name": "Apple",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/9/9d/Cranberry_Candy.png"
+    },
+    {
+        "name": "Bruschetta",
+        "materials": [
+            {
+                "name": "Bread",
+                "quantity": "1"
+            },
+            {
+                "name": "Oil",
+                "quantity": "1"
+            },
+            {
+                "name": "Tomato",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/c/ca/Bruschetta.png"
+    },
+    {
+        "name": "Coleslaw",
+        "materials": [
+            {
+                "name": "Red Cabbage",
+                "quantity": "1"
+            },
+            {
+                "name": "Vinegar",
+                "quantity": "1"
+            },
+            {
+                "name": "Mayonnaise",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/e/e1/Coleslaw.png"
+    },
+    {
+        "name": "Fiddlehead Risotto",
+        "materials": [
+            {
+                "name": "Oil",
+                "quantity": "1"
+            },
+            {
+                "name": "Fiddlehead Fern",
+                "quantity": "1"
+            },
+            {
+                "name": "Garlic",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/2/2d/Fiddlehead_Risotto.png"
+    },
+    {
+        "name": "Poppyseed Muffin",
+        "materials": [
+            {
+                "name": "Poppy",
+                "quantity": "1"
+            },
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/8/8e/Poppyseed_Muffin.png"
+    },
+    {
+        "name": "Chowder",
+        "materials": [
+            {
+                "name": "Clam",
+                "quantity": "1"
+            },
+            {
+                "name": "Milk",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/9/95/Chowder.png"
+    },
+    {
+        "name": "Fish Stew",
+        "materials": [
+            {
+                "name": "Crayfish",
+                "quantity": "1"
+            },
+            {
+                "name": "Mussel",
+                "quantity": "1"
+            },
+            {
+                "name": "Periwinkle",
+                "quantity": "1"
+            },
+            {
+                "name": "Tomato",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/6/6f/Fish_Stew.png"
+    },
+    {
+        "name": "Escargot",
+        "materials": [
+            {
+                "name": "Snail",
+                "quantity": "1"
+            },
+            {
+                "name": "Garlic",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/7/78/Escargot.png"
+    },
+    {
+        "name": "Lobster Bisque",
+        "materials": [
+            {
+                "name": "Lobster",
+                "quantity": "1"
+            },
+            {
+                "name": "Milk",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/0/0a/Lobster_Bisque.png"
+    },
+    {
+        "name": "Maple Bar",
+        "materials": [
+            {
+                "name": "Maple Syrup",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            },
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/1/18/Maple_Bar.png"
+    },
+    {
+        "name": "Crab Cakes",
+        "materials": [
+            {
+                "name": "Crab",
+                "quantity": "1"
+            },
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Egg",
+                "quantity": "1"
+            },
+            {
+                "name": "Oil",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/7/70/Crab_Cakes.png"
+    },
+    {
+        "name": "Shrimp Cocktail",
+        "materials": [
+            {
+                "name": "Tomato",
+                "quantity": "1"
+            },
+            {
+                "name": "Shrimp",
+                "quantity": "1"
+            },
+            {
+                "name": "Wild Horseradish",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/8/8e/Shrimp_Cocktail.png"
+    },
+    {
+        "name": "Ginger Ale",
+        "materials": [
+            {
+                "name": "Ginger",
+                "quantity": "3"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/1/1a/Ginger_Ale.png"
+    },
+    {
+        "name": "Banana Pudding",
+        "materials": [
+            {
+                "name": "Banana",
+                "quantity": "1"
+            },
+            {
+                "name": "Milk",
+                "quantity": "1"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/4/40/Banana_Pudding.png"
+    },
+    {
+        "name": "Mango Sticky Rice",
+        "materials": [
+            {
+                "name": "Mango",
+                "quantity": "1"
+            },
+            {
+                "name": "Coconut",
+                "quantity": "1"
+            },
+            {
+                "name": "Rice",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/6/6e/Mango_Sticky_Rice.png"
+    },
+    {
+        "name": "Poi",
+        "materials": [
+            {
+                "name": "Taro Root",
+                "quantity": "4"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/f/f1/Poi.png"
+    },
+    {
+        "name": "Tropical Curry",
+        "materials": [
+            {
+                "name": "Coconut",
+                "quantity": "1"
+            },
+            {
+                "name": "Pineapple",
+                "quantity": "1"
+            },
+            {
+                "name": "Hot Pepper",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/3/32/Tropical_Curry.png"
+    },
+    {
+        "name": "Squid Ink Ravioli",
+        "materials": [
+            {
+                "name": "Squid Ink",
+                "quantity": "1"
+            },
+            {
+                "name": "Wheat Flour",
+                "quantity": "1"
+            },
+            {
+                "name": "Tomato",
+                "quantity": "1"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/8/86/Squid_Ink_Ravioli.png"
+    },
+    {
+        "name": "Moss Soup",
+        "materials": [
+            {
+                "name": "Moss",
+                "quantity": "20"
+            }
+        ],
+        "image": "//https://stardewvalleywiki.com//mediawiki/images/d/df/Moss_Soup.png"
+    }
+]
