@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  min-height: 100%;
+  min-width: 100%;
+  background-image: linear-gradient(to bottom, #80a0f0, #c0ffff, #40c040);
+  background-color: #80a0f0;
+  background-attachment: fixed;
+}
