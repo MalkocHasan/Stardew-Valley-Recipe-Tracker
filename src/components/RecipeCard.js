@@ -7,7 +7,7 @@ const RecipeCard = ({ recipe, onToggleCompletion }) => {
 
   return (
     <div
-      className="max-w-xs bg-white shadow-md rounded-lg overflow-hidden mx-auto w-64 h-64 py-2 flex flex-col justify-between"
+      className="max-w-xs bg-white shadow-md rounded-lg overflow-hidden mx-auto w-64 h-80 py-2 flex flex-col justify-between"
       style={{
         backgroundColor: "#ffe0b0",
         margin: "5px",
@@ -20,12 +20,18 @@ const RecipeCard = ({ recipe, onToggleCompletion }) => {
           <img
             src={recipe.image}
             alt={recipe.name}
-            className="w-16 h-full"
-            style={{ borderRadius: "10px" }}
+            className="w-16 h-16"
+            style={{
+              borderRadius: "10px",
+              objectFit: "cover",
+              width: "100%",
+              height: "100%",
+            }}
           />
         </div>
+
         <div className="px-4 py-2 flex-auto align-center items-center justify-center flex flex-col">
-          <h2 className="text-lg font-bold text-gray-800 my-auto text-center">
+          <h2 className="text-xl font-extrabold text-gray-800 my-auto text-center">
             {recipe.name}
           </h2>
         </div>
@@ -33,15 +39,13 @@ const RecipeCard = ({ recipe, onToggleCompletion }) => {
       <div className="px-4 py-2">
         <ul>
           {recipe.materials.map((material, index) => (
-            <li key={index} className="text-sm text-gray-700">
+            <li key={index} className="text-md text-gray-700 font-semibold">
               {material.name}: {material.quantity}
             </li>
           ))}
         </ul>
       </div>
       <div className="px-4 py-2 flex justify-center">
-        {" "}
-        {/* Adjusted here */}
         <button
           className={`px-4 py-2 rounded ${
             recipe.completed ? "bg-green-600" : "bg-amber-800"

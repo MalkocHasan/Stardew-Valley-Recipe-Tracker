@@ -72,15 +72,15 @@ function App() {
 
   return (
     <div className="container p-4">
-      <h1 className="text-3xl font-bold mb-4 items-center justify-center flex flex-col">
+      <h1 className="text-5xl font-bold mb-8 items-center justify-center flex flex-col">
         Recipe Tracker
       </h1>
       <div className="flex mb-4 items-center justify-center flex-row">
         <button
           className={`px-4 py-2 rounded mr-4 ${
             activeTab === "crafting"
-              ? "bg-amber-900 text-white border-4 border-amber-900"
-              : "bg-amber-800 text-white border-4 border-blue-950"
+              ? "bg-amber-800 text-white border-4 border-amber-800"
+              : "bg-amber-900 text-white border-4 border-blue-950"
           }`}
           onClick={
             activeTab !== "cooking"
@@ -98,8 +98,8 @@ function App() {
         <button
           className={`px-4 py-2 rounded ${
             activeTab === "crafting"
-              ? "bg-amber-800 text-white border-4 border-blue-950"
-              : "bg-amber-900 text-white border-4 border-amber-900"
+              ? "bg-amber-900 text-white border-4 border-blue-950"
+              : "bg-amber-800 text-white border-4 border-amber-800"
           }`}
           onClick={
             activeTab !== "crafting"
@@ -120,29 +120,31 @@ function App() {
         <>
           {!Object.keys(totalMaterials).length ? null : (
             <div className="mb-4">
-              <h2 className="text-lg font-bold mb-2 items-center justify-center flex">
+              <h2 className="text-2xl font-bold mb-2 flex items-center justify-center">
                 Total Material Count
               </h2>
-              <ul>
+              <ul className="flex flex-wrap mx-16 ">
                 {Object.entries(totalMaterials).map(([name, quantity]) => (
                   <li
                     key={name}
-                    className="text-sm text-gray-700 items-center justify-center flex flex-row"
+                    className="font-semibold text-md text-gray-700 flex items-center mr-4 mb-2"
                   >
-                    {name}: {quantity}
+                    <span className="mr-1">{name}:</span>
+                    <span>{quantity}</span>
                   </li>
                 ))}
               </ul>
             </div>
           )}
+
           <div
             className="block mx-auto"
             style={{
               display: "flex",
-              minHeight: "100vh",
+              minHeight: "50vh",
               flexWrap: "wrap",
-              justifyContent: "center", // Center items horizontally
-              alignItems: "center", // Center items vertically
+              justifyContent: "center",
+              alignItems: "center",
             }}
           >
             {filteredRecipes.map((recipe, index) => (
@@ -155,9 +157,20 @@ function App() {
           </div>
 
           {completedRecipes.length > 0 && (
-            <div className="mt-8">
-              <h2 className="text-xl font-bold mb-2">Completed Recipes</h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <div className="">
+              <h2 className="text-2xl font-bold mt-16 text-center mb-8">
+                Completed Recipes
+              </h2>
+              <div
+                className="block mx-auto"
+                style={{
+                  display: "flex",
+                  minHeight: "50vh",
+                  flexWrap: "wrap",
+                  justifyContent: "center", // Center items horizontally
+                  alignItems: "center", // Center items vertically
+                }}
+              >
                 {completedRecipes.map((recipe, index) => (
                   <RecipeCard
                     key={index}
