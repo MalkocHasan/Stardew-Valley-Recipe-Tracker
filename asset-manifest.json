@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stardew-Valley-Recipe-Tracker/static/css/main.7c7292cf.css",
+    "main.js": "/Stardew-Valley-Recipe-Tracker/static/js/main.82d0d7b1.js",
+    "static/js/787.dfbe2eea.chunk.js": "/Stardew-Valley-Recipe-Tracker/static/js/787.dfbe2eea.chunk.js",
+    "index.html": "/Stardew-Valley-Recipe-Tracker/index.html",
+    "main.7c7292cf.css.map": "/Stardew-Valley-Recipe-Tracker/static/css/main.7c7292cf.css.map",
+    "main.82d0d7b1.js.map": "/Stardew-Valley-Recipe-Tracker/static/js/main.82d0d7b1.js.map",
+    "787.dfbe2eea.chunk.js.map": "/Stardew-Valley-Recipe-Tracker/static/js/787.dfbe2eea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c7292cf.css",
+    "static/js/main.82d0d7b1.js"
+  ]
+}
