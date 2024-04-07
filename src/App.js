@@ -6,7 +6,7 @@ import craftingRecipes from "./recipes/CraftingRecipes";
 
 function App() {
   const [activeTab, setActiveTab] = useState("cooking");
-  const [recipes, setRecipes] = useState([]);
+  const [recipes, setRecipes] = useState(cookingRecipes);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -136,7 +136,9 @@ function App() {
               </ul>
             </div>
           )}
-
+          <h2 className="text-2xl font-bold mb-2 flex items-center justify-center">
+            Recipes To Complete
+          </h2>
           <div
             className="block mx-auto"
             style={{

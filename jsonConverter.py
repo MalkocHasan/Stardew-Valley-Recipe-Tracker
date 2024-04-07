@@ -13,7 +13,7 @@ for recipe in recipes_data:
         "materials": [
             {"name": material["name"], "quantity": int(material["quantity"])} for material in recipe["materials"]
         ],
-        "image": recipe["image"][2:],  # Adjust image URL if needed
+        "image": recipe["image"],  # Adjust image URL if needed
         "completed": False  # Assuming all recipes are not completed initially
     }
     formatted_recipes.append(formatted_recipe)
