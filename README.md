@@ -18,9 +18,11 @@ Welcome to the Stardew Valley Recipe Tracker! This website is designed to help y
 **Enjoy Cooking and Crafting:** Refer back to the tracker anytime you need to remember a recipe or check your progress.
 
 ### Screenshots:
-
+#### Cooking Recipes
 ![image](https://github.com/MalkocHasan/Stardew-Valley-Recipe-Tracker/assets/126597322/25d95132-70a2-47b7-94ef-69b4e525c696)
+#### Crafting Recipes
 ![image](https://github.com/MalkocHasan/Stardew-Valley-Recipe-Tracker/assets/126597322/b4f7df09-afc3-4957-8098-dd6df49fc8d9)
+#### Completed Recipes
 ![image](https://github.com/MalkocHasan/Stardew-Valley-Recipe-Tracker/assets/126597322/d1991e1f-fa42-4e7c-a891-1a3055a453d8)
 
 
