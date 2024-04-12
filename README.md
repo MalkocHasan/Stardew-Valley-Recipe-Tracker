@@ -1,4 +1,4 @@
-# [Stardew Valley Recipe Tracker](http://https://malkochasan.github.io/Stardew-Valley-Recipe-Tracker/ "Stardew Valley Recipe Tracker")
+# [Stardew Valley Recipe Tracker](https://malkochasan.github.io/Stardew-Valley-Recipe-Tracker/ "Stardew Valley Recipe Tracker")
 
 Welcome to the Stardew Valley Recipe Tracker! This website is designed to help you keep track of all the recipes you've discovered in the wonderful world of Stardew Valley. Whether you're a seasoned farmer or just starting out, this tool will assist you in managing your culinary adventures.
 
